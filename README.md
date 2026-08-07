@@ -8,7 +8,9 @@
 
 </div>
 
-Desarrollador Full Stack con foco en React, Node.js y TypeScript. Lidero técnicamente al equipo frontend en **Cloudnet Solutions**, donde desarrollo y mantengo aplicaciones para múltiples clientes: APIs REST con Express y Sequelize sobre PostgreSQL y SQL Server, autenticación con JWT y Auth0, testing con Jest y despliegue continuo en Azure con GitHub Actions. En paralelo desarrollo proyectos freelance de punta a punta e incorporo asistentes de IA como Claude Code en mi flujo de trabajo para acelerar el desarrollo sin resignar calidad.
+Desarrollador Full Stack: React, Node.js y TypeScript en producción — APIs REST con Express y Sequelize sobre PostgreSQL y SQL Server, autenticación con JWT y Auth0, testing con Jest y despliegue continuo en Azure con GitHub Actions. Trato directo con clientes y stakeholders para bajar requerimientos a soluciones técnicas, reviso código y acompaño a los desarrolladores junior del equipo frontend.
+
+En paralelo armo proyectos freelance de punta a punta, del diseño de interfaz al deploy, y sumo asistentes de IA como Claude Code al flujo de trabajo diario sin resignar criterio técnico.
 
 <br>
 
