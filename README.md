@@ -25,8 +25,9 @@ Diseñé un sistema de captación de clientes potenciales con IA que la empresa 
 ![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=2dd4bf)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=2dd4bf)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=2dd4bf)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=2dd4bf)
 ![IA](https://img.shields.io/badge/IA-000000?style=flat-square&logo=anthropic&logoColor=2dd4bf)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=2dd4bf)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=2dd4bf)
 
 </div>
 
