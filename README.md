@@ -1,4 +1,4 @@
-<img width="3168" height="792" alt="banner-a@2x" src="https://github.com/user-attachments/assets/0521ba24-8eff-4422-bd9e-52fe3d25e72c" />
+<img width="3168" height="792" alt="banner-a@2x" src="https://github.com/user-attachments/assets/92eadc5c-1609-471a-b5ed-54f2d13d5b1e" />
 
 <div align="center">
 
@@ -8,9 +8,9 @@
 
 </div>
 
-Desarrollador Full Stack: React, Node.js y TypeScript en producción — APIs REST con Express y Sequelize sobre PostgreSQL y SQL Server, autenticación con JWT y Auth0, testing con Jest y despliegue continuo en Azure con GitHub Actions. Trato directo con clientes y stakeholders para bajar requerimientos a soluciones técnicas, reviso código y acompaño a los desarrolladores junior del equipo frontend.
+Desarrollador Full Stack con foco en frontend: React, Next.js y TypeScript en producción, en una software factory con clientes de Argentina, Chile y Uruguay. Introduje Syncfusion como librería de componentes de la empresa y soy autor de la plantilla de frontend desde la que arrancan los proyectos nuevos. Del lado del servidor construyo con Node.js y Supabase.
 
-En paralelo armo proyectos freelance de punta a punta, del diseño de interfaz al deploy, y sumo asistentes de IA como Claude Code al flujo de trabajo diario sin resignar criterio técnico.
+Diseñé un sistema de captación de clientes potenciales con IA que la empresa adoptó para sus campañas, y uso Claude Code a diario. En paralelo tomo proyectos freelance de punta a punta, del diseño de interfaz a producción.
 
 <br>
 
@@ -24,10 +24,9 @@ En paralelo armo proyectos freelance de punta a punta, del diseño de interfaz a
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=2dd4bf)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=2dd4bf)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=2dd4bf)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=2dd4bf)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=2dd4bf)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=2dd4bf)
 ![IA](https://img.shields.io/badge/IA-000000?style=flat-square&logo=anthropic&logoColor=2dd4bf)
-![Azure](https://img.shields.io/badge/Azure-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBvbHlnb24gcG9pbnRzPSIxMiw0IDIxLDIwIDMsMjAiIGZpbGw9IiMyZGQ0YmYiLz48L3N2Zz4K)
 
 </div>
 
