@@ -8,9 +8,9 @@
 
 </div>
 
-Desarrollador Full Stack con foco en frontend: React, Next.js y TypeScript en producción, en una software factory con clientes de Argentina, Chile y Uruguay. Introduje Syncfusion como librería de componentes de la empresa y soy autor de la plantilla de frontend desde la que arrancan los proyectos nuevos. Del lado del servidor construyo con Node.js y Supabase.
+Desarrollador Full Stack con experiencia en React, Next.js y Supabase, enfocado en optimizar procesos de desarrollo y liderar soluciones técnicas. Busco integrar mi capacidad técnica con mi formación en IA aplicada para evolucionar hacia roles de arquitectura de sistemas escalables e inteligentes.
 
-Diseñé un sistema de captación de clientes potenciales con IA que la empresa adoptó para sus campañas, y uso Claude Code a diario. En paralelo tomo proyectos freelance de punta a punta, del diseño de interfaz a producción.
+En paralelo tomo proyectos freelance de punta a punta, del diseño de interfaz a producción.
 
 <br>
 
