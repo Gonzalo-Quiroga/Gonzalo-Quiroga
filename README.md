@@ -8,7 +8,7 @@
 
 </div>
 
-Desarrollador Full Stack con experiencia en React, Next.js y Supabase, enfocado en optimizar procesos de desarrollo y liderar soluciones técnicas. Busco integrar mi capacidad técnica con mi formación en IA aplicada para evolucionar hacia roles de arquitectura de sistemas escalables e inteligentes.
+Desarrollador Full Stack con experiencia en React, Next.js y Supabase, enfocado en optimizar procesos de desarrollo y liderar soluciones técnicas. Busco integrar mi capacidad técnica con mi formación en IA aplicada (certificado como **AI Engineer for Developers Associate** por DataCamp) para evolucionar hacia roles de arquitectura de sistemas escalables e inteligentes.
 
 En paralelo tomo proyectos freelance de punta a punta, del diseño de interfaz a producción.
 
