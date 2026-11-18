@@ -8,9 +8,11 @@
 
 </div>
 
-Desarrollador Full Stack con experiencia en React, Next.js y Supabase, enfocado en optimizar procesos de desarrollo y liderar soluciones técnicas. Busco integrar mi capacidad técnica con mi formación en IA aplicada (certificado como **AI Engineer for Developers Associate** por DataCamp) para evolucionar hacia roles de arquitectura de sistemas escalables e inteligentes.
+Desarrollador Full Stack con foco en frontend: React, JavaScript y TypeScript, con Next.js y Supabase en mis proyectos propios. Diseñé y construí un sistema de calificación de leads con LLM que la empresa adoptó, y estoy creciendo hacia la ingeniería de IA y la arquitectura de sistemas que la integran.
 
 En paralelo tomo proyectos freelance de punta a punta, del diseño de interfaz a producción.
+
+**Certificaciones:** Python Developer Associate y AI Engineer for Developers Associate (DataCamp) · GitHub Copilot GH-300 (Microsoft)
 
 <br>
 
@@ -19,14 +21,15 @@ En paralelo tomo proyectos freelance de punta a punta, del diseño de interfaz a
 <sub>•• STACK</sub>
 
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=2dd4bf)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=2dd4bf)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=2dd4bf)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=2dd4bf)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=2dd4bf)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=2dd4bf)
 ![Astro](https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=2dd4bf)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=2dd4bf)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=2dd4bf)
-![IA](https://img.shields.io/badge/IA-000000?style=flat-square&logo=anthropic&logoColor=2dd4bf)
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=2dd4bf)
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claude&logoColor=2dd4bf)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=2dd4bf)
 
 </div>
